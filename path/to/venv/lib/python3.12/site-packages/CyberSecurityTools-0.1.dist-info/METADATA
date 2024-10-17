@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: CyberSecurityTools
+Version: 0.1
+Summary: CyberSecurityTool is a comprehensive Python package designed for performing essential cybersecurity scans. It includes features like subdomain enumeration, broken link checking, SQL injection testing, XSS detection, CSRF testing, and network vulnerability scanning. Built with ease of use and efficiency in mind, CyberSecurityTool empowers developers and security professionals to enhance their web application's security and identify vulnerabilities with minimal effort.
+Home-page: https://github.com/ZoroHacker/CyberSecurityTools
+Author: Ahmad_Bulbul
+Author-email: Ahmadbulbulprof1@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
+Requires-Dist: colorama
+Requires-Dist: pyfiglet
+Requires-Dist: sockets
+
